@@ -1,0 +1,17 @@
+@import "bootstrap/scss/bootstrap";
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+.table-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
